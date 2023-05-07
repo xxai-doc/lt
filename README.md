@@ -7,3 +7,4 @@ Svetainės priekinio kodo kodas yra atvirojo kodo, kviečiame padėti optimizuot
 * [front-end kodas](https://github.com/xxai-art/web)
 * [Kalbos paketai visai svetainei](https://github.com/xxai-art/web/tree/main/i18n)
 * [Prisijungimo modulių kalbų paketai](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Svetainės daugiakalbė dokumentacija](https://github.com/xxai-doc)
